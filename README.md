@@ -1,4 +1,4 @@
- ![image](https://github.com/user-attachments/assets/8a9428de-4525-4dbc-822c-2771bfaba3d5)
+<img src="https://github.com/user-attachments/assets/8a9428de-4525-4dbc-822c-2771bfaba3d5" width="900" height="500" />
 
 <h1>Hi 👋, I'm Aimee Rose</h1>
 <p>A 2nd-year college student passionate about front-end development. Currently learning HTML, CSS, JavaScript, and frameworks to build engaging and responsive user interfaces. Always eager to learn and grow in the world of web development!</p>
