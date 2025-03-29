@@ -1,3 +1,5 @@
+ ![image](https://github.com/user-attachments/assets/8a9428de-4525-4dbc-822c-2771bfaba3d5)
+
 <h1>Hi 👋, I'm Aimee Rose</h1>
 <p>A 2nd-year college student passionate about front-end development. Currently learning HTML, CSS, JavaScript, and frameworks to build engaging and responsive user interfaces. Always eager to learn and grow in the world of web development!</p>
 
@@ -16,9 +18,17 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsaymii&show_icons=true&locale=en&layout=compact&theme=dark" alt="itsaymii" /></p>
+
+
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/aimeefernandoballatan" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/iamaimeerose/?hl=en" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/channel/UC04xF88SEmEO_NMnltLu3iA" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsaymii&show_icons=true&locale=en" alt="itsaymii" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsaymii&" alt="itsaymii" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsaymii&show_icons=true&locale=en&theme=dark" alt="itsaymii" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsaymii&theme=dark" alt="itsaymii" /></p>
+
+
+
