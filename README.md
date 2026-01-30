@@ -1,11 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Front-End+Developer;React+Learner;UI%2FUX+Enthusiast)](https://git.io/typing-svg)
-
-<h1 align="center">Hi 👋, I'm Aimee Rose</h1>
-<p align="center">
-🎓 3rd-year college student passionate about <b>Front-End Development</b> <br/>
-🌐 Learning <b>HTML, CSS, JavaScript, React, React Native</b> <br/>
-✨ Designing engaging and responsive user interfaces with a UI/UX mindset
-</p>
+<h1 align="center"> Hi 👋, I'm Aimee Rose <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+Learner;UI%2FUX+Enthusiast" alt="Typing SVG" /> </h1> <p align="center"> 🎓 3rd-year college student passionate about <b>Front-End Development</b> <br/> 🌐 Learning <b>HTML, CSS, JavaScript, React, React Native</b> <br/> ✨ Designing engaging and responsive user interfaces with a UI/UX mindset </p>
 
 ---
 
