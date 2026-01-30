@@ -46,6 +46,27 @@
 
 ---
 
+### 📌 Pinned Projects
+<p align="center">
+  <a href="https://github.com/itsaymii/project-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsaymii&repo=project-portfolio&theme=radical" />
+  </a>
+  <a href="https://github.com/itsaymii/react-ui-components">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsaymii&repo=react-ui-components&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/itsaymii/motivation-shorts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsaymii&repo=motivation-shorts&theme=radical" />
+  </a>
+  <a href="https://github.com/itsaymii/figma-to-code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsaymii&repo=figma-to-code&theme=radical" />
+  </a>
+</p>
+
+---
+
 ### 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsaymii&style=for-the-badge&color=blue" alt="Profile Views"/>
