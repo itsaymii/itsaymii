@@ -46,23 +46,21 @@
 
 ---
 
-### 📌 Pinned Projects
+### 📈 More Visualizations
 <p align="center">
-  <a href="https://github.com/itsaymii/project-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsaymii&repo=project-portfolio&theme=radical" />
-  </a>
-  <a href="https://github.com/itsaymii/react-ui-components">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsaymii&repo=react-ui-components&theme=radical" />
-  </a>
+  <!-- GitHub Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsaymii&theme=radical" alt="Profile Summary"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/itsaymii/motivation-shorts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsaymii&repo=motivation-shorts&theme=radical" />
-  </a>
-  <a href="https://github.com/itsaymii/figma-to-code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsaymii&repo=figma-to-code&theme=radical" />
-  </a>
+  <!-- Commit per day heatmap -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsaymii&theme=radical&utcOffset=8" alt="Commit Heatmap"/>
+</p>
+
+<p align="center">
+  <!-- Repo stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsaymii&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsaymii&theme=radical" alt="Most Commit Language"/>
 </p>
 
 ---
