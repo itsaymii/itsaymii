@@ -51,6 +51,27 @@
 
 ---
 
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsaymii&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/itsaymii/itsaymii/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsaymii&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
+
+---
+
 ### ⚡️ Connect With Me
 <p align="center">
   <a href="https://www.facebook.com/aimeefernandoballatan" target="_blank">
