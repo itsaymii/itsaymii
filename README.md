@@ -46,19 +46,19 @@
 
 ---
 
-### 📈 More Visualizations
+### 📈 Commit Visualizations
 <p align="center">
-  <!-- GitHub Profile Summary Card -->
+  <!-- Profile Summary Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsaymii&theme=radical" alt="Profile Summary"/>
 </p>
 
 <p align="center">
-  <!-- Commit per day heatmap -->
+  <!-- Commit Heatmap (productive time) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsaymii&theme=radical&utcOffset=8" alt="Commit Heatmap"/>
 </p>
 
 <p align="center">
-  <!-- Repo stats -->
+  <!-- Commits per Language -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsaymii&theme=radical" alt="Repos per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsaymii&theme=radical" alt="Most Commit Language"/>
 </p>
